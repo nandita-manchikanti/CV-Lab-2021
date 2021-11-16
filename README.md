@@ -12,6 +12,7 @@ b. Find the minimum and maximum
 **Q1:** 
 a.Take an image of the wall of your house and apply a sobel filter and count the number of edge pixels in the edge map 
 b. Do the same operation for the image of a tree ( capture your own image of the tree ) and report your observation on the two images
+
 **Q2:** 
 Each of the images considered in the first problem apply Gaussian filters of size 7 * 7 , 9 * 9 and 11 *11. Repeat the problem 1 and report your observation
 
